@@ -4,11 +4,12 @@
 - 🌱 I am currently learning React Js
 - 👯 I want to collaborate in React
 - 🤔 Looking for help with React Js / Laravel
-- 💬 Ask me what you're curious about
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: yazilimcidestek@gmail.com
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ademduran&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ademduran&theme=dark&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -18,6 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p>
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -31,6 +33,11 @@
 <img align="left" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 <img align="left" alt="C++" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
+</p></br></br></br>
+
+
+ Visitor count<br>
+<img src="https://profile-counter.glitch.me/ademduran/count.svg" />
 
 
 
