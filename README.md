@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/admdrn/" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
+<a href="https://www.instagram.com/aduran__developer/" target="blank"><img align="left" alt="HackerRank" width="40px" src="https://www.fundacionmicrofinanzasbbva.org/wp-content/uploads/2017/03/new-instagram-logo-png-transparent.png"/></a>
 <a href="https://www.hackerrank.com/admdrn" target="blank"><img align="left" alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
 <br/><br/>
 
