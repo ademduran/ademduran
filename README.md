@@ -6,7 +6,7 @@
 - 🤔 Looking for help with React Js / Laravel
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: destek@aduran.com.tr
+- 📫 How to reach me: destek@ademduran.com
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ademduran&theme=dark&show_icons=true)
