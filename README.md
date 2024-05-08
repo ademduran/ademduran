@@ -60,3 +60,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+      <a href="https://www.gamerazi.com/" target="_blank" title="Gamerazi">
+            gamerazi
+      </a>
+
+      <a href="https://www.gamerazi.com/fighting/bleach-vs-naruto-39-play.html" target="_blank" title="Bleach vs Naruto 3.9">
+            Bleach vs Naruto 3.9
+      </a>
+
+      <a href="https://www.gamerazi.com/fighting/bleach-vs-naruto-40-play.html" target="_blank" title="Bleach vs Naruto 4.0">
+            Bleach vs Naruto 4.0
+      </a>
+
+      <a href="https://www.gamerazi.com/fighting/bleach-vs-naruto-36-play.html" target="_blank" title="Bleach vs Naruto 3.6">
+            Bleach vs Naruto 3.6
+      </a>
+
+      <a href="https://www.gamerazi.com/action/vex-7-play.html" target="_blank" title="Vex 7">
+            Vex 7
+      </a>
+
+      <a href="https://www.gamerazi.com/action/vex-9-play.html" target="_blank" title="Vex 9">
+            Vex 9
+      </a>
