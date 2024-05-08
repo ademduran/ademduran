@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/admdrn/" target="_blank">
- <img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-  LinkedIn_logo_initials.png"/>
+ <img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>
 </a>
 <a href="https://www.instagram.com/aduran__developer/" target="_blank">
  <img align="left" alt="Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"/>
