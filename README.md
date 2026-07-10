@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Modern+ve+kullan%C4%B1c%C4%B1+dostu+aray%C3%BCzler+tasarl%C4%B1yorum;React.js+%2B+Next.js+ile+geli%C5%9Ftiriyorum;Piksel+m%C3%BCkemmeliyeti%C3%A7in+u%C4%9Fra%C5%9F%C4%B1yorum+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Modern+ve+kullan%C4%B1c%C4%B1+dostu+aray%C3%BCzler+tasarl%C4%B1yorum;React.js+%2B+Next.js+ile+geli%C5%9Ftiriyorum;Piksel+m%C3%BCkemmeliyeti%C3%A7in+u%C4%9Fra%C5%9F%C4%B1yorum+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
