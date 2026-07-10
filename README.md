@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ademduran/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ademduran&label=Profil%20Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=2563EB&style=flat" alt="Visitor Count" />
 </p>
 
 <p align="center">
