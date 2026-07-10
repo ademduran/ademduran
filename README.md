@@ -1,64 +1,77 @@
-### Hi there 👋
+<h1 align="center">Merhaba, ben Adem 👋</h1>
 
-- 🔭 I'm currently working on React Js
-- 🌱 I am currently learning React Js
-- 👯 I want to collaborate in React
-- 🤔 Looking for help with React Js / Laravel
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: destek@ademduran.com
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=460&lines=React.js+Developer;Laravel+ile+Backend+Geli%C5%9Ftiriyorum;S%C3%BCrekli+%C3%B6%C4%9Frenmeye+devam+ediyorum+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/admdrn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aduran__developer/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/admdrn" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:destek@ademduran.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ademduran&theme=dark&show_icons=true)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Hakkımda
 
-<a href="https://www.linkedin.com/in/admdrn/" target="_blank">
- <img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>
-</a>
-<a href="https://www.instagram.com/aduran__developer/" target="_blank">
- <img align="left" alt="Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"/>
-</a>
-<a href="https://www.hackerrank.com/admdrn" target="_blank">
- <img align="left" alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/>
-</a>
-<br/><br/>
+- 🔭 Şu anda **React.js** ile projeler geliştiriyorum
+- 🌱 React.js ekosistemini derinlemesine öğrenmeye devam ediyorum
+- 👯 React projelerinde **iş birliği** yapmaya açığım
+- 🤔 **React.js / Laravel** konularında yardım arıyorum
+- 💬 Her konuda soru sorabilirsin, yardımcı olmaktan mutluluk duyarım
+- ⚡ Fun-fact: *Her şey mümkün*
+- 📫 Bana ulaşmak için: **destek@ademduran.com**
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p>
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Adobe Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="Adobe Illustrator" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
-<img align="left" alt="Adobe After Effects" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" />
-<img align="left" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
-</p></br></br></br>
+### 🛠️ Diller & Araçlar
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>
+</p>
 
- Visitor count<br>
-<img src="https://profile-counter.glitch.me/ademduran/count.svg" />
+---
 
+### 📊 GitHub İstatistikleri
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademduran&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademduran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<!--
-**ademduran/ademduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ademduran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ademduran/count.svg" alt="Visitor Count" />
+</p>
 
-<a style="font-size: 3px;" href="https://www.gamerazi.com/" target="_blank" title="gamerazi">gamerazi</a>-<a style="font-size: 3px;" href="https://www.gamerazi.com/fighting/bleach-vs-naruto-39-play.html" target="_blank" title="Bleach vs Naruto 3.9">Bleach vs Naruto 3.9</a>-<a style="font-size: 3px;" href="https://www.gamerazi.com/fighting/bleach-vs-naruto-40-play.html" target="_blank" title="Bleach vs Naruto 4.0">Bleach vs Naruto 4.0</a>-<a style="font-size: 3px;" href="https://www.gamerazi.com/fighting/bleach-vs-naruto-36-play.html" target="_blank" title="Bleach vs Naruto 3.6">Bleach vs Naruto 3.6</a>-<a style="font-size: 3px;" href="https://www.gamerazi.com/action/vex-7-play.html" target="_blank" title="Vex 7">Vex 7</a>-<a style="font-size: 3px;" href="https://www.gamerazi.com/action/vex-9-play.html" target="_blank" title="Vex 9">Vex 9</a>
+<p align="center">
+  <sub>⭐️ Profilime uğradığın için teşekkürler!</sub>
+</p>
