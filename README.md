@@ -30,7 +30,7 @@ odak:          "Modern, hızlı ve kullanıcı dostu arayüzler geliştirmek"
 şu_an:         "React.js ile kurumsal panel/arayüz projeleri geliştiriyorum"
 öğreniyorum:   "React.js ekosistemi — Next.js, performans optimizasyonu, modern state yönetimi"
 iş_birliği:    "Frontend / React projelerinde iş birliğine açığım"
-yardım_arıyorum: "React.js konularında, backend tarafında Laravel ile"
+yardım_arıyorum: "React.js konularında, backend tarafında Next Js"
 iletişim:      "destek@ademduran.com"
 fun_fact:      "Her piksel bir amaç için var ⚡"
 ```
